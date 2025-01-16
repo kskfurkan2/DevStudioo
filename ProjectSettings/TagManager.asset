@@ -7,11 +7,13 @@ TagManager:
   - workStation
   - LightSwitcher
   - Empoyee
+  - Effects
+  - Car
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - CarWay
   - Water
   - UI
   - Ground
