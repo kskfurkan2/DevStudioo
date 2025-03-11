@@ -9,6 +9,11 @@ TagManager:
   - Empoyee
   - Effects
   - Car
+  - CarCard
+  - HouseCard
+  - TakeableObject
+  - DeskCard
+  - OfficeStaff
   layers:
   - Default
   - TransparentFX
