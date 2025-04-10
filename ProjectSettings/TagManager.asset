@@ -18,6 +18,7 @@ TagManager:
   - Computer
   - Lights
   - Garage Door Switch
+  - Door
   layers:
   - Default
   - TransparentFX
