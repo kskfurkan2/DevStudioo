@@ -19,6 +19,7 @@ TagManager:
   - Lights
   - Garage Door Switch
   - Door
+  - OfficeCard
   layers:
   - Default
   - TransparentFX
