@@ -305,7 +305,7 @@ GameObject:
   - component: {fileID: 658328603560514533}
   - component: {fileID: 7348920508872434115}
   - component: {fileID: 2450677020230261082}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: WorkStation (2)
   m_TagString: workStation
   m_Icon: {fileID: 0}
@@ -351,8 +351,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.26889443, y: 1.86, z: 1.12}
-  m_Center: {x: -0.08924258, y: 0.28000003, z: 0}
+  m_Size: {x: 1.4515657, y: 1.3856077, z: 1.12}
+  m_Center: {x: -0.68057823, y: 0.94329214, z: 0}
 --- !u!65 &719900865670308305
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -409,15 +409,15 @@ MonoBehaviour:
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"InteractiveKey","value":{"$content":"U","$type":"UnityEngine.KeyCode"},"typeHandle":{"Identification":"UnityEngine.KeyCode,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"InteractiveKeyText","value":{"$content":2,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Text,
       UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Trigger","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
-      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Camera","value":{"$content":3,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
-      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"PlayerTrigger","value":{"$content":4,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
-      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"ComputerSpawnPoint","value":{"$content":5,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
-      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Computers","value":{"$content":[{"$content":6,"$type":"UnityEngine.Object"},{"$content":7,"$type":"UnityEngine.Object"},{"$content":8,"$type":"UnityEngine.Object"},{"$content":9,"$type":"UnityEngine.Object"},{"$content":10,"$type":"UnityEngine.Object"}],"$type":"Unity.VisualScripting.AotList"},"typeHandle":{"Identification":"Unity.VisualScripting.AotList,
-      Unity.VisualScripting.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"LevelText","value":{"$content":11,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Text,
-      UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"PriceText","value":{"$content":12,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Text,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Camera","value":null,"typeHandle":{"Identification":"UnityEngine.GameObject,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"PlayerTrigger","value":{"$content":3,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"ComputerSpawnPoint","value":{"$content":4,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Computers","value":{"$content":[{"$content":5,"$type":"UnityEngine.Object"},{"$content":6,"$type":"UnityEngine.Object"},{"$content":7,"$type":"UnityEngine.Object"},{"$content":8,"$type":"UnityEngine.Object"},{"$content":9,"$type":"UnityEngine.Object"}],"$type":"Unity.VisualScripting.AotList"},"typeHandle":{"Identification":"Unity.VisualScripting.AotList,
+      Unity.VisualScripting.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"LevelText","value":{"$content":10,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Text,
+      UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"PriceText","value":{"$content":11,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Text,
       UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Price","value":{"$content":15,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"IsLastLevel","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
-      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"ChairTrigger","value":{"$content":13,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"ChairTrigger","value":{"$content":12,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"HasaChair","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"ActiveChair","value":null,"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
@@ -425,7 +425,6 @@ MonoBehaviour:
     - {fileID: 1225194489804735110}
     - {fileID: 1694375101161406960}
     - {fileID: 3943763838648102800}
-    - {fileID: 0}
     - {fileID: 8929992195062254204}
     - {fileID: 7150181060756603979}
     - {fileID: 1552588482405023138, guid: 4ce368111698c1f4a8da1fb0337a168b, type: 3}
@@ -598,7 +597,7 @@ GameObject:
   - component: {fileID: 3700498779471193276}
   - component: {fileID: 4196234576123701755}
   - component: {fileID: 3292107557818641196}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: WorkStation (1)
   m_TagString: workStation
   m_Icon: {fileID: 0}
@@ -644,8 +643,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.26889443, y: 1.86, z: 1.12}
-  m_Center: {x: -0.08924258, y: 0.28000003, z: 0}
+  m_Size: {x: 1.4515657, y: 1.3856077, z: 1.12}
+  m_Center: {x: -0.68057823, y: 0.94329214, z: 0}
 --- !u!65 &3415977950044247380
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2308,6 +2307,95 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 3245299668284440199}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4026969192778862810
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 6804178954571826044}
+    m_Modifications:
+    - target: {fileID: 3239068316351584275, guid: c286b65f093314542a68f572d195842c,
+        type: 3}
+      propertyPath: m_Name
+      value: BoxOpenParticle
+      objectReference: {fileID: 0}
+    - target: {fileID: 6566698582110845010, guid: c286b65f093314542a68f572d195842c,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.13441786
+      objectReference: {fileID: 0}
+    - target: {fileID: 6566698582110845010, guid: c286b65f093314542a68f572d195842c,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.13441786
+      objectReference: {fileID: 0}
+    - target: {fileID: 6566698582110845010, guid: c286b65f093314542a68f572d195842c,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.13441786
+      objectReference: {fileID: 0}
+    - target: {fileID: 6566698582110845010, guid: c286b65f093314542a68f572d195842c,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6566698582110845010, guid: c286b65f093314542a68f572d195842c,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6566698582110845010, guid: c286b65f093314542a68f572d195842c,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.0185
+      objectReference: {fileID: 0}
+    - target: {fileID: 6566698582110845010, guid: c286b65f093314542a68f572d195842c,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6566698582110845010, guid: c286b65f093314542a68f572d195842c,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6566698582110845010, guid: c286b65f093314542a68f572d195842c,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6566698582110845010, guid: c286b65f093314542a68f572d195842c,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6566698582110845010, guid: c286b65f093314542a68f572d195842c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6566698582110845010, guid: c286b65f093314542a68f572d195842c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6566698582110845010, guid: c286b65f093314542a68f572d195842c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c286b65f093314542a68f572d195842c, type: 3}
+--- !u!4 &7837163528128669832 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6566698582110845010, guid: c286b65f093314542a68f572d195842c,
+    type: 3}
+  m_PrefabInstance: {fileID: 4026969192778862810}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &6478416832528917655
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2397,6 +2485,10 @@ PrefabInstance:
         type: 3}
       insertIndex: -1
       addedObject: {fileID: 8803193829256819544}
+    - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 3c8cd855b1b0d874e9356dbebf779fb2,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7837163528128669832}
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 3c8cd855b1b0d874e9356dbebf779fb2,
         type: 3}
