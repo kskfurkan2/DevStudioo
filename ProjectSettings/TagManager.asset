@@ -20,6 +20,8 @@ TagManager:
   - Garage Door Switch
   - Door
   - OfficeCard
+  - Trash
+  - TrashBox
   layers:
   - Default
   - TransparentFX
